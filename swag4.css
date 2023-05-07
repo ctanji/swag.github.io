@@ -39,8 +39,8 @@
 .banner {
 	width: 100%;
 	height: 350%;
-	background-image: url(/Users/Christian/Documents/GitHub/swag.github.io/sdasd.png),linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.95)),
-	url(/Users/Christian/Documents/GitHub/swag.github.io/sdasd.png);
+	background-image: url(/swag.github.io/sdasd.png),linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.95)),
+	url(/swag.github.io/sdasd.png);
 	background-size: cover, cover;
 
 	background-position: center, center;
