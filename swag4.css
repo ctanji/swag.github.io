@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'avantgarde_lt_mediumregular';
-    src: url('file:///C:/Users/Christian/Downloads/itc-avant-garde-gothic-lt-medium-webfont%20(1).woff2') format('woff2'),
-         url('file:///C:/Users/Christian/Downloads/siteotd/css/itc-avant-garde-gothic-lt-medium-webfont.woff') format('woff');
+    src: url('/Users/Christian/Downloads/itc-avant-garde-gothic-lt-medium-webfont%20(1).woff2') format('woff2'),
+         url('/Users/Christian/Downloads/siteotd/css/itc-avant-garde-gothic-lt-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     text-transform: lowercase;
