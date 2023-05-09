@@ -445,6 +445,7 @@ margin-bottom: -18px;
 	text-transform: none;
 }
 .footer ul li {
+	text-decoration: none;
 	justify-content: center;
 	align-items: center;
 	position: relative;
