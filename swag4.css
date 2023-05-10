@@ -21,7 +21,7 @@
 
 .body {
 	width: 100%;
-    height: 100%;
+    height: 350%;
     padding: 0px;
     overflow-x: hidden; 
 }
@@ -357,6 +357,7 @@ margin-bottom: -18px;
 	top: 800px;
 	font-size: 1.7rem;
 	display: inline-flex;
+	padding-bottom: 200px;
 	
 	
 	color: lightgrey;
@@ -383,6 +384,7 @@ margin-bottom: -18px;
 		align-items: 	center;
 	position: relative;
 
+
 	min-height: 20px;
 
 }
@@ -407,6 +409,7 @@ margin-bottom: -18px;
 	margin-left: 420px;
 	padding: 30px;
 	display: block;
+
 	background: rgba(128, 128, 128, 0.1);
 	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
 
@@ -414,8 +417,9 @@ margin-bottom: -18px;
 
 .footer {
   position: absolute;
-  align-items: baseline;
+  
  	float: bottom;
+ 	max-height: 40%;
   font-family: 'avantgarde_lt_mediumregular' ;
   left: 0;
   bottom: 0;
@@ -423,6 +427,7 @@ margin-bottom: -18px;
   background: rgba(128, 128, 128, 0.1);
 	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
 	padding-top: 40px;
+
   color: whitesmoke;
   text-decoration: none;
   
