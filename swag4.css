@@ -419,12 +419,12 @@ margin-bottom: -18px;
   position: relative;
   display: flex;
   flex-direction: column;
-  
+  bottom: -600px;
  	float: bottom;
  	max-height: 40%;
   font-family: 'avantgarde_lt_mediumregular' ;
   left: 0;
-  bottom: 0;
+  
   width: 100%;
   background: rgba(128, 128, 128, 0.1);
 	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
