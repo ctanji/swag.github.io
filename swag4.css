@@ -417,6 +417,8 @@ margin-bottom: -18px;
 
 .footer {
   position: relative;
+  display: flex;
+  flex-direction: column;
   
  	float: bottom;
  	max-height: 40%;
