@@ -416,7 +416,7 @@ margin-bottom: -18px;
 }
 
 .footer {
-  position: absolute;
+  position: relative;
   
  	float: bottom;
  	max-height: 40%;
